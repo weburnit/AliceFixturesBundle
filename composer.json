@@ -1,5 +1,5 @@
 {
-    "name": "h4cc/alice-fixtures-bundle",
+    "name": "paul/alice-fixtures-bundle",
     "description": "Symfony2 Bundle for loading fixture data with the Alice library.",
     "keywords": ["Symfony2", "Fixtures", "Alice", "Loader", "Doctrine", "ORM", "MongoDB"],
     "type": "symfony-bundle",
